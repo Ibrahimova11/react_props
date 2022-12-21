@@ -1,0 +1,87 @@
+const List ={
+  dataSource:[
+    {
+      key: '0',
+      id: '1',
+      name: 'BMW iX3 eDrive20',
+      systemPerformance: '163bg',
+      energyConsumption: '18,7 kWsa/ 100 km',
+      color: 'black',
+    },
+    {
+      key: '1',
+      id: '2',
+      name: 'BMW iX xDrive40',
+      systemPerformance: '326bg',
+      energyConsumption: '20,3 kWsa/ 100 km',
+      color: 'grey',
+    },
+    {
+      key: '2',
+      id: '3',
+      name: 'The new BMW i4 M50',
+      systemPerformance: '426bg',
+      energyConsumption: '24,3 kWsa/ 100 km',
+      color: 'blue',
+    },
+    {
+      key: '3',
+      id: '4',
+      name: 'The new BMW iX3',
+      systemPerformance: '566bg',
+      energyConsumption: '34,3 kWsa/ 100 km',
+      color: 'red',
+    },
+    {
+        key: '4',
+        id: '5',
+        name: 'BMW X3 sDrive20i',
+        systemPerformance : '170bg',
+        energyConsumption: '5.8 kWsa/100 km',
+        color: 'white',
+      },
+      {
+        key: '5',
+        id: '6',
+        name: 'New BMW X1',
+        systemPerformance: '136bg',
+        energyConsumption: '51.8 kWsa/100 km',
+        color: 'orange',
+      },
+      {
+        key: '6',
+        id: '7',
+        name: 'BMW 4 Serisi Cabrio M',
+        systemPerformance: '146bg',
+        energyConsumption: '51.8 kWsa/100 km',
+        color: 'blue',
+      },
+      {
+        key: '7',
+        id: '8',
+        name: 'BMW 4 Serisi Coupé M',
+        systemPerformance: '236bg',
+        energyConsumption: '60.8 kWsa/100 km',
+        color: 'yelow',
+      },
+      {
+        key: '8',
+        id: '9',
+        name: 'BMW M235i xDrive Gran Coupé',
+        systemPerformance: '336bg',
+        energyConsumption: '46.5 kWsa/100 km',
+        color: 'brown',
+      },
+      {
+        key: '9',
+        id: '10',
+        name: 'BMW 4 Serisi Cabrio',
+        systemPerformance: '440bg',
+        energyConsumption: '48.9 kWsa/100 km',
+        color: 'green',
+      },
+
+  ],
+  count:10
+};
+  export default List
